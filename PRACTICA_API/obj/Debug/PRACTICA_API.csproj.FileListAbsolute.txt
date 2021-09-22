@@ -1,0 +1,13 @@
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API\PRACTICA_API\bin\Debug\PRACTICA_API.exe.config
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API\PRACTICA_API\bin\Debug\PRACTICA_API.exe
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API\PRACTICA_API\bin\Debug\PRACTICA_API.pdb
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API\PRACTICA_API\obj\Debug\PRACTICA_API.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API\PRACTICA_API\obj\Debug\PRACTICA_API.Form1.resources
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API\PRACTICA_API\obj\Debug\PRACTICA_API.Properties.Resources.resources
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API\PRACTICA_API\obj\Debug\PRACTICA_API.csproj.GenerateResource.cache
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API\PRACTICA_API\obj\Debug\PRACTICA_API.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API\PRACTICA_API\obj\Debug\PRACTICA_API.exe
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API\PRACTICA_API\obj\Debug\PRACTICA_API.pdb
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API\PRACTICA_API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API\PRACTICA_API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usuario\Documents\INTEGRACIONDS\PRACTICA_API\PRACTICA_API\obj\Debug\PRACTICA_API.csproj.CopyComplete
